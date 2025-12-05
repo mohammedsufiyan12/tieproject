@@ -1,2 +1,2 @@
 # tieproject
-This project is on berr shop lounge made using Html and Css 
+This project is on bear shop lounge made using Html and Css 
